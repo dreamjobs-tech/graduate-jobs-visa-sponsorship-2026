@@ -1,0 +1,37 @@
+country_code,country,title_level,ads_offering_sponsorship,ads_refusing_sponsorship,refusals_per_offer
+GB,United Kingdom,Internship / graduate,3,284,94.7
+GB,United Kingdom,Junior / entry,1,20,20.0
+GB,United Kingdom,Senior / lead / manager,123,1054,8.6
+GB,United Kingdom,Other,168,2348,14.0
+US,United States,Internship / graduate,15,963,64.2
+US,United States,Junior / entry,0,77,
+US,United States,Senior / lead / manager,559,5436,9.7
+US,United States,Other,451,6655,14.8
+IE,Ireland,Internship / graduate,0,9,
+IE,Ireland,Junior / entry,0,2,
+IE,Ireland,Senior / lead / manager,27,150,5.6
+IE,Ireland,Other,18,89,4.9
+CA,Canada,Internship / graduate,0,32,
+CA,Canada,Junior / entry,0,8,
+CA,Canada,Senior / lead / manager,11,524,47.6
+CA,Canada,Other,11,633,57.5
+AU,Australia,Internship / graduate,1,8,8.0
+AU,Australia,Junior / entry,0,0,
+AU,Australia,Senior / lead / manager,34,246,7.2
+AU,Australia,Other,54,296,5.5
+NZ,New Zealand,Internship / graduate,1,1,1.0
+NZ,New Zealand,Junior / entry,0,0,
+NZ,New Zealand,Senior / lead / manager,8,36,4.5
+NZ,New Zealand,Other,11,20,1.8
+DE,Germany,Internship / graduate,7,19,2.7
+DE,Germany,Junior / entry,0,8,
+DE,Germany,Senior / lead / manager,104,100,1.0
+DE,Germany,Other,101,115,1.1
+NL,Netherlands,Internship / graduate,0,27,
+NL,Netherlands,Junior / entry,2,7,3.5
+NL,Netherlands,Senior / lead / manager,33,69,2.1
+NL,Netherlands,Other,51,122,2.4
+SG,Singapore,Internship / graduate,0,60,
+SG,Singapore,Junior / entry,0,2,
+SG,Singapore,Senior / lead / manager,11,223,20.3
+SG,Singapore,Other,20,105,5.2
