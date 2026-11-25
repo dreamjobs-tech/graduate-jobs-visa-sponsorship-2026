@@ -1,6 +1,6 @@
 # Visa Sponsorship in Early-Career Job Ads, 9 Countries, November 2026
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24520891.svg)](https://doi.org/10.5281/zenodo.24520891)
 
 Aggregate counts from live job ads collected by [Qarera](https://www.qarera.com), ads open and seen **November 10 – 24, 2026**.
 
@@ -31,4 +31,4 @@ Every open ad seen November 10 – 24, 2026 in the UK, Ireland, the US, Canada, 
 
 ## Citation
 
-> Qarera (2026). *Visa Sponsorship in Early-Career Job Ads, 9 Countries, November 2026* [Data set]. https://www.qarera.com/reports/graduate-jobs-visa-sponsorship-2026. CC BY 4.0.
+> Qarera (2026). *Visa Sponsorship in Early-Career Job Ads, 9 Countries, November 2026* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24520891. CC BY 4.0.
