@@ -1,0 +1,30 @@
+{
+  "upload_type": "dataset",
+  "title": "Visa Sponsorship in Early-Career Job Ads, 9 Countries, November 2026",
+  "description": "Counts of job ads that explicitly offer or refuse visa sponsorship by title level in the UK, Ireland, the US, Canada, Australia, New Zealand, Germany, the Netherlands and Singapore (44,225 ads mentioning visas, November 10-24, 2026); the employers whose early-career ads offered sponsorship, each read by hand; and UK licensed sponsors with live graduate or junior ads, matched to the GOV.UK register of 2026-11-23. Full report and method: https://www.qarera.com/reports/graduate-jobs-visa-sponsorship-2026",
+  "creators": [
+    {
+      "name": "Qarera",
+      "affiliation": "Qarera"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "visa sponsorship",
+    "graduate jobs",
+    "Graduate visa",
+    "Skilled Worker visa",
+    "international students",
+    "job ads",
+    "migration"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.qarera.com/reports/graduate-jobs-visa-sponsorship-2026",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    }
+  ]
+}
